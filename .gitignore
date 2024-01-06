@@ -3,3 +3,4 @@ venv
 .env
 python
 .migrations
+__pycache__
